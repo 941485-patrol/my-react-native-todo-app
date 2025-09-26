@@ -10,7 +10,7 @@ that you would like to record.
 1. Clone the repo.
 
     ```bash
-   npm install
+   git clone https://github.com/941485-patrol/my-react-native-todo-app.git
    ```
 
 2. Install dependencies
